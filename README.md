@@ -1,6 +1,7 @@
 ![MasterHead]
 
-<h1 align="left">Hi 👋, I'm Remo</h1>
+![image](https://user-images.githubusercontent.com/84759212/200758168-e4026b67-4002-4d1c-aa0d-df46f0fd2f08.png)
+
 <h1 align="center">Passionate Software Devloper From India </h1>
 <p align="right"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" /> </p>
 
