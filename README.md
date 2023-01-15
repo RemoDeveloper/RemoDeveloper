@@ -1,5 +1,4 @@
 
-
 ![image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=alien-glow-anim-logo&text=RemoDeveloper&doScale=true&scaleWidth=480&scaleHeight=120&fontname=blackchancery)
 
 <h1 align="center">
@@ -8,6 +7,6 @@
 
 <h3 align="left">🌱 I’m currently learning **<i>DSA with JAVA</i>**</h3>
  <h3 align="left">💬 Ask me about ** <i>react js, javascript, html, css, Bootstrap </i>**</h3>
- <h3 align="left"><h3>Machine Learning</h3>
+ <h3 align="left"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-14-902701.png" width="30px" /> Machine Learning</h3>
 <h3 align="left"> 📫 How to reach me **phatakrameshd@gmail.com**</h3>
  
