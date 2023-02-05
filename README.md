@@ -12,5 +12,6 @@
 <h3 align="left">🌱 I’m currently learning **<i>DSA with JAVA</i>**</h3>
  <h3 align="left">💬 Ask me about ** <i>react js, javascript, html, css, Bootstrap </i>**</h3>
  <h3 align="left"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-14-902701.png" width="30px" /> Machine Learning</h3>
-<h3 align="left"> 📫 How to reach me **phatakrameshd@gmail.com**</h3>
+<h3 align="left"> 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/phatakrameshd.gmail.com?compose=new"><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" width="30"/>phatakrameshd@gmail.com</h3>
+ <h3 align="left"> Connect with me &nbsp <a href""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=40" /></a>
  
