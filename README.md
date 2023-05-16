@@ -6,7 +6,7 @@
 ɪ ᴀᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ </h1>
 <div>
 <span align="right"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  width="230px" /> </span>
- <span aligin="left"> <img src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" width="230px"/></span>
+ 
 <span align="left"> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="260px"/> </span>
 
 </div>
