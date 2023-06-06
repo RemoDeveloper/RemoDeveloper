@@ -7,8 +7,7 @@
 <span align="right"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" height="140px" width="230px" /> </span>
  <span align="right"> <img src="https://cdn.dribbble.com/users/3897976/screenshots/7555548/media/c21f8071c3bfba17abf5272ba69d4db5.gif" height="140px" width="230px" /> </span>
 <span align="center"> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="140px" width="260px"/> </span>
- <span align="left"> <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" height="140px" width="260px"/> </span>
- 
+
 </div>
 <h3 align="left">🌱𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **<i>DSA with JAVA</i>**</h3>
  <h3 align="left">💬𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ** <i>react js, javascript, html, css, Bootstrap </i>**</h3>
