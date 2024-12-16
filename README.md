@@ -1,4 +1,4 @@
-![image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=alien-glow-anim-logo&text=RemoDeveloper&doScale=true&scaleWidth=480&scaleHeight=120&fontname=blackchancery)
+<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2024/12/16/flamingtext_com_1734347885_591900369.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 
 <h1 align="center">
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/web-designing-2045809-1729908.png?w=256&f=avif" width="40px" /> 
@@ -10,8 +10,8 @@
 
 </div>
 <h3 align="left">🌱𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **<i> JAVA Springboot frameworks</i>**</h3>
- <h3 align="left">💬𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ** <i>react js, javascript, html, css, Bootstrap, DSA with Java </i>**</h3>
- <h3 align="left"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-14-902701.png" width="30px" /> Machine Learning</h3>
+ <h3 align="left">💬𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ** <i>react js, javascript, html, css, Bootstrap, DSA with Java,SQL </i>**</h3>
+ <h3 align="left"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-14-902701.png" width="30px" /> C, Java,Python</h3>
 <h3 align="left"> 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 <a href="https://mail.google.com/mail/u/0/#search/phatakrameshd.gmail.com?compose=new"><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" width="30"/>rameshphatak34@gmail.com</h3>
  <h3 align="left"> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮 &nbsp <a href""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=40" /></a>
  
