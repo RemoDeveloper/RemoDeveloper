@@ -2,19 +2,18 @@
 
 <h4>📚 MCA graduate from Sanjay Ghodawat University |</br>
 👨‍💻 Web Development Intern at Vertuebyte Infotech, Pune</h4>
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 🌐 My Story:  
 
-✨ **The Spark**  
+✨  **The Spark**  
 I’ve started my **web design** journey with the **SoloLearn app**, where I’ve completed several tasks, earned _Badges_,
 </br> and consistently increased my _score_.Check out my <img src="https://d2f7anuvnar8n5.cloudfront.net/p/images2/vv/y6/bb/gqxbeic/thumbnail_379f2fcfa5ce15ffb3a7c9b233a6e1bf0468f900.jpg" alt="Description of Image" width="22" height="22"/>
  [SoloLearn Profile](https://www.sololearn.com/en/profile/8029474)!
 
 </br>
-👨‍💻 **The Learner**  
-Currently, I’m deepening my expertise in **React.js**, **Java**, **Fullstack Web Development**, and **Frontend** design.  
-
+👨‍💻  **The Learner**  
+𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼’𝑚 𝑑𝑒𝑒𝑝𝑒𝑛𝑖𝑛𝑔 𝑚𝑦 𝑒𝑥𝑝𝑒𝑟𝑡𝑖𝑠𝑒 𝑖𝑛 𝑅𝑒𝑎𝑐𝑡.𝑗𝑠, 𝐽𝑎𝑣𝑎, 𝐹𝑢𝑙𝑙𝑠𝑡𝑎𝑐𝑘 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡, 𝑎𝑛𝑑 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑑𝑒𝑠𝑖𝑔𝑛.
 ---
 
 ## 🔧 The Tools I Trust:  
@@ -36,6 +35,3 @@ Here are the technologies I work with:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://linktr.ee/rameshphatak)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-phatak-remodeveloper04/)  
 
----
-
-💬 Let’s build something incredible together. Feel free to reach out for collaborations or just to say hi! 😊
