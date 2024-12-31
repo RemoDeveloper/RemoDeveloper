@@ -7,7 +7,7 @@
 ## 🌐 My Story:  
 
 💡 **The Spark**  
-
+I’ve started my **web design** journey with the **SoloLearn app**, where I’ve completed several tasks, earned _Badges_, and consistently increased my _score_.
 🌱 **The Learner**  
 Currently, I’m deepening my expertise in **React.js**, **Java**, **Fullstack Web Development**, and **Frontend** design.  
 
