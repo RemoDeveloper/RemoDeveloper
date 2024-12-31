@@ -6,31 +6,35 @@
 
 ## 🌐 My Story:  
 
-💡 **The Spark**  
+✨ **The Spark**  
 I’ve started my **web design** journey with the **SoloLearn app**, where I’ve completed several tasks, earned _Badges_,
 </br> and consistently increased my _score_.Check out my <img src="https://d2f7anuvnar8n5.cloudfront.net/p/images2/vv/y6/bb/gqxbeic/thumbnail_379f2fcfa5ce15ffb3a7c9b233a6e1bf0468f900.jpg" alt="Description of Image" width="22" height="22"/>
  [SoloLearn Profile](https://www.sololearn.com/en/profile/8029474)!
 
 </br>
-🌱 **The Learner**  
+👨‍💻 **The Learner**  
 Currently, I’m deepening my expertise in **React.js**, **Java**, **Fullstack Web Development**, and **Frontend** design.  
 
 ---
 
 ## 🔧 The Tools I Trust:  
+𝐽𝑎𝑣𝑎 𝐹𝑢𝑙𝑙𝑠𝑡𝑎𝑐𝑘 𝑆𝑘𝑖𝑙𝑙𝑠
 
-| **Category**    | **Tech Stack**                                                                 |
-|------------------|--------------------------------------------------------------------------------|
-| **Languages**    | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frontend**     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Backend**      | ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Database**     | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools & Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+Here are the technologies I work with:
+
+| **Languages**     | ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+|-------------------|--------------------------------------------------------------------------------|
+| **Frontend**      | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend**       | ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) |
+| **Database**      | ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools & Design**| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Version Control**| ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) |
+
 
 ## 🌍 Find Me Online:  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://linktr.ee/rameshphatak)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadamdigvijay/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-phatak-remodeveloper04/)  
 
 ---
 
