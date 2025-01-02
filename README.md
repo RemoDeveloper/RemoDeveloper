@@ -8,7 +8,7 @@
 
 ✨  **The Spark**  
 I’ve started my **web design** journey with the **SoloLearn app**, where I’ve completed several tasks, earned _Badges_,
-</br> and consistently increased my _score_.Check out my <img src="https://d2f7anuvnar8n5.cloudfront.net/p/images2/vv/y6/bb/gqxbeic/thumbnail_379f2fcfa5ce15ffb3a7c9b233a6e1bf0468f900.jpg" alt="Description of Image" width="22" height="22"/>
+</br> and consistently increased my _score_. Check out my <img src="https://d2f7anuvnar8n5.cloudfront.net/p/images2/vv/y6/bb/gqxbeic/thumbnail_379f2fcfa5ce15ffb3a7c9b233a6e1bf0468f900.jpg" alt="Description of Image" width="22" height="22"/>
  [SoloLearn Profile](https://www.sololearn.com/en/profile/8029474)!
 
 </br>
