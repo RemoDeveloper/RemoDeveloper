@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm on a mission to build beautiful, responsive, and meani
 - 🌐 Currently interning remotely at **UnifiedMentor**  
 - 🧠 Focused on learning **HTML5, CSS3, JavaScript, React.js, Bootstrap, Figma**  
 - 🗣️ Prioritizing **soft skills** and **interview preparation** daily  
-- 🔄 Open to full-time roles in **Frontend Development, WordPress, and IT Support**
+- 🔄 Open to full-time roles in **Frontend Development, WordPress, and Web Designer**
 
 ---
 
